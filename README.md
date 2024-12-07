@@ -30,10 +30,9 @@ The User Registration Module enables users to securely register and log into the
 - **Secure Password Storage**: Passwords are encrypted and stored securely.
 - **Email Verification**: Upon registration, users receive an email with a verification link to activate their account.
 - **Input Validation**: Ensures that the email is in a correct format and the password meets security requirements.
-![Alt text](https://res.cloudinary.com/dfukrpd9z/image/upload/v12345678/56a87e84b4cb89f9d49a3238cba9c089.jpg)
-
-
-![Alt text](URL_of_the_image)
+![Image Description](https://drive.google.com/uc?export=view&id=1lITjjC-JmACinFIoc_JnU4jgJXHRKE4H)
+---
+![Example Image](https://drive.google.com/uc?export=view&id=1tPLj0rWFpxxTj8pGwp2goeY2fmvPXG2L)
 
 
 ---
@@ -53,6 +52,10 @@ The Post Creation Module allows users to create posts under different categories
 - **Rich Text Editor**: Users can format the content of their posts using basic text formatting tools.
 - **Post Editing and Deletion**: After a post is created, users can edit or delete it at any time.
 - **Category Selection**: Posts can be categorized for easier organization and browsing.
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1fdfkRT3ssSQytE4RGUZVMOfHdkEzg6qD)
+ ![Alt Text](https://drive.google.com/uc?export=view&id=1wCi1t8fABnyMfNqHFPPYcl1JFtTPCoYU)
+
+
 
 ---
 
@@ -77,6 +80,10 @@ The Category Navigation Module organizes posts into specific categories, making 
 - **iPhone**
 - **Mac**
 - **macOS**
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1TfVAkvyVs0q-lVJH6x0l1am_PBrLtg13)
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1qd_5WOBEml8NNW3hK7NkkAjsXr0J-6ks)
+
+
 
 ---
 
@@ -94,8 +101,12 @@ The Comment System Module allows users to comment on posts, participate in discu
 - **Comment Editing**: Users can edit their comments after posting them.
 - **Upvoting and Downvoting**: Allows users to upvote or downvote comments to indicate their approval or disagreement.
 - **Nested Comments**: Support for replying to comments, creating threads within the discussion.
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1QYpOgOFjIMvmjRoorKnAp-iMoAsV9BLm)
+
 
 ---
+
+## Database
 
 The PHP MySQL database stores all the relevant data for the Community Forum Website.
 
@@ -106,6 +117,13 @@ The PHP MySQL database stores all the relevant data for the Community Forum Webs
 - **post_list**: Stores post details including title, content, category, and the user who created the post.
 - **system_info**: Stores details about the system or forum settings (e.g., system configurations, admin settings).
 - **users**: Stores user data like name, email, password, and verification status.
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1IzFbFqPqFL_cDYZ6cCUGwyIjgzmU0BF6)
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1VqoRwVM9PJD3TQOOoNwSUYiUpj36YLkX)
+  ![Alt Text](https://drive.google.com/uc?export=view&id=1lBSbK68wh3FOwNS1zDFoNDWE276wo0M7)
+
+  
+
+
 
 
 
